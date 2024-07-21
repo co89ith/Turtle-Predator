@@ -10,12 +10,8 @@ find_package(ament_cmake REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-  "msg/HardwareStatus.msg"
-  "msg/LedStates.msg"
   "msg/Turtle.msg"
   "msg/TurtleArray.msg"
-  "srv/ComputeRectangle.srv"
-  "srv/SetLed.srv"
   "srv/CatchTurtle.srv"
 )
 
