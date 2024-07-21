@@ -17,6 +17,4 @@ The project contains the following files:
 
 ![Turtle_predator_example](https://github.com/co89ith/Turtle-Predator/blob/86311519d20173e861f047f836651abebaa5fd28/Turtle_predator.gif)
 
-<img src="https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/co89ith/Turtle_predator_project/blob/main/Turtle_predator.gif"/>
 
-https://github.com/co89ith/Turtle-Predator/blob/86311519d20173e861f047f836651abebaa5fd28/Turtle_predator.gif
